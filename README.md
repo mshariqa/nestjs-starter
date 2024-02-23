@@ -38,7 +38,7 @@ $ npm install
 # development
 $ npm run start
 
-# watch mode
+# watch mode (it will run the api service with hotreload)
 $ npm run start:dev
 
 # production mode
